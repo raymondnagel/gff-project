@@ -1,0 +1,77 @@
+T H E    G O O D    F I G H T    O F    F A I T H
+
+       ~ Testing Demo Instruction Manual ~
+
+             (current as of 1-26-15)
+
+Note that all information/suggestion in this
+document is subject to frequent change.
+
+
+RUNNING THE GAME
+_________________________________________
+
+(Note that you must have the latest version of Java Runtime installed.)
+
+1. For Windows users: You can either run "GoodFight.exe" (normal, no output) or "test.bat" (for testing, sends output to a console window). If you have any problems running the EXE, just run the test version.
+
+(Unfortunately, the Mac version is not available at this time.)
+
+
+
+_________________________________________
+GETTING STARTED
+
+1. The title screen appears. Wait for the prompt, and press the Enter key.
+
+3. The opening scene appears. Press Enter key after each talk-bubble appears to advance the conversation.
+
+4. When the opening scene is finished, you will be placed outside of the church. (Note that the random scenery generator isn't quite perfect yet, and the player may occasionally be placed in a location from which he cannot escape at this point. This occurs when the church spawns too close to the bottom edge of the scene. If you find that you are stuck, please just quit (Escape key) and restart the game.)
+
+5. Assuming your character is not stuck, you are now free to explore the game!
+
+
+_________________________________________
+EXPLORATION MODE
+
+1. Use the arrow keys to move your character. There is no scrolling; rather, when the player reaches the edge of one scene, he travels to the next scene over.
+
+2. You will notice that, when a church is in the scene, you can view the entire scene. However, when you go to a different scene, you can only view a small circle around the character. This reflects that the world is full of darkness. In order to improve your visibility range, you will need to discover the 10 commandments: "For the commandment is a lamp; and the law is light..." (Psalm 6:23)
+
+3. There are two types of treasure chests that you can find. Common chests are brown with gold trim. These have a chance to appear temporarily in any scene. If you leave the scene without opening one, it will disappear. These chests contain items for restoring the player's faith. There are also blue premium chests, which sit on a stone pedestal surrounded by pillars. These are permanent (will not disappear if you leave the scene), and contain important game items such as commandments or books of the Bible. You can open a chest by simply walking into it.
+
+3. Press F5 to see your map. The current scene is indicated with a red box. The red X shows the location of the nearest premium treasure chest. Try to follow the map and locate the blue chest! Once you find it, your map will update to show you the location of another chest.
+
+4. Recall that you received the Gospel of John at the start of your adventure. If you find additional books, you will need to enable them before they can be used. Press F2 to see the "Books of the Bible" subscreen. Books you have obtained are highlighted in yellow. To enable a book, simple check its box. Using more books will make it harder to guess random verses in the combat part of the game; however, they will also increase the power of his Sword when making a successful attack. (See COMBAT MODE section below.)
+
+5. If you discover a church (or return to the church where you started), you can enter the building by walking into the door. If the church is currently in service, your character will take a seat and listen to the sermon. This will restore his faith to maximum.
+
+
+_________________________________________
+COMBAT MODE
+
+1. By this time, you may have encountered an enemy or two. If you get too close to them, they will start to chase you! If they catch you, the game will change to the combat screen and you will have fight them!
+
+2. Combat is a turn-based battle in which the player attempts to defeat the enemy using the Sword of the Spirit, which is the word of God (Ephesians 6:17). The enemy will also attack the player with a myriad of weapons, such as fiery darts, poisons, snares, etc., attempting to destroy his faith.
+
+3. On the player's turn, a random verse is selected from among his enabled books. The more books the player has enabled, the more difficult it will be to guess which book the verse is from. To select your guess for the book, click the "Book" button, drag to the book you want, and then release the mouse. Type the chapter # and press Enter. Then type the verse # and press Enter.
+
+4. If the player guessed the correct book, then his attack will hit. The power of the attack is proportional to how close the chapter & verse guesses are to the actual reference, and then multiplied by the number of books currently enabled.
+
+5. Until the enemy is defeated, he will continue to attack the player, lowering his faith. The enemy never misses; however, for each piece of the "whole armour of God" obtained, there is a small chance that the enemy attack will be blocked.
+
+6. If the enemy is defeated, the player receives some "experience points" and continues on his way. After accumulating enough experience, he will gain a level, which will give him a small increase in his maximum faith.
+
+7. If the player is defeated, the player is reduced to 0 faith and must visit a church in order to restore his faith. While at 0 faith, the player is incapable of encountering enemies or opening any treasure chests.
+
+
+_________________________________________
+ADDITIONAL CONTROLS:
+
+- Press Esc to exit the game (requires confirmation).
+
+- Press 'P' key to pause/unpause the game.
+
+- Press 'N' key to toggle whether to show character names.
+
+- Press F12 to take a screenshot; these are saved to the game's "screenshots" folder.

@@ -1,0 +1,126 @@
+To create a Section:
+
+1. start with a room
+2. for each direction, if there is already a room, OR if the point is outside the map dimensions, place a wall
+3. for remaining directions that are open (there should be 0-3; 0-4 if this is the entrance room), either put up a wall, or expand section into a new room there
+4. wherever a wall section is open, add it to a "pending" list to be completed later
+4. using the new room, or one from the "pending" list, repeat from step 1 until a dead end is created, or the room # limit is reached.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Castle:
+- shape predefined 
+- medium-sized main floor (1st-0), generated as maze
+- 4 2x2 towers, each 4 stories high
+- 4 keys unlock 4 towers
+- boss resides in one of the towers
+- 95 total rooms
+
+Main floor:
+
+TT     TT
+TTMMMMMTT
+ MMMMMMM
+ MMMMMMM
+ MMMMMMM
+TTMMEMMTT
+TT     TT
+
+___________________________________________________________________________________
+
+
+Tower:
+- shape predefined, each floor generated as maze
+- main floor (1st-0)
+- relatively small floor area (5x5)
+- 6 stories high (exits to floor above and floor below)
+- 5 keys unlock the next floor
+- boss resides on top floor
+- 96 total rooms
+
+Each floor:
+
+ MMM
+MMMMM (x6)
+MMMMM
+ MEM
+
+___________________________________________________________________________________
+
+
+Keep:
+- generated in sections (shape not predefined)
+- large 12x12 main floor (1st-0) only
+- keys unlock deeper sections
+- boss resides in the final section
+
+Main floor:
+
+MMMMMMMMMMMM
+MMMMMMMMMMMM
+MMMMMMMMMMMM
+MMMMMMMMMMMM
+MMMMMMMMMMMM
+MMMMMMMMMMMM
+MMMMMMMMMMMM (inner maze)
+MMMMMMMMMMMM
+MMMMMMMMMMMM
+MMMMMMMMMMMM
+MMMMMMMMMMMM
+MMMEMMMMMMMM
+
+___________________________________________________________________________________
+
+
+Fortress:
+- medium-sized main floor (1st-0), generated in sections
+- keys unlock corridor sections
+- 2nd floor contains corridors leading to different main floor sections
+- boss resides on main floor, accessible through a locked corridor
+
+Main floor / 2nd floor corridors:
+
+MMMMMMMM
+MCCCCMMM
+MMMMCCCM
+MMCMMMMM
+MMCMCCMM
+MMCCCMMM
+MMMEMMMM
+
+___________________________________________________________________________________
+
+
+Dungeon:
+- medium sized main floor (2nd-1), generated as maze
+- medium sized basement floor (1st-0), generated in sections
+- there is one basement entrance from the main floor
+- keys unlock deeper basement sections
+- boss resides in basement
+
+Each floor:
+
+MMMMMMM
+MMBMMMM
+MMMMMMM
+MMMMMMM
+MMMMMMM
+MMMMMMM
+MMMMEMM

@@ -1,0 +1,26 @@
+﻿^
+$`Preacher`Brother Adam, there is joy in heaven over the repentance of a sinner. But not everyone is happy; in fact, someone is most displeased about your salvation.
+$`Adam`Who is this wretched creature?
+$`Preacher`None other than that old serpent, called the Devil, and Satan. He was once an angel of light: Lucifer, the covering cherub. But lifting up his heart with pride, he led a rebellion of angels against the Lord, and was cast out of heaven.
+$`Preacher`Satan hates mankind - especially those who are part of God's kingdom. Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour.
+$`Adam`He sounds like a powerful enemy!
+$`Preacher`He is powerful indeed. And someday you will have to confront him, as Jesus did. But God is faithful, who will not suffer you to be tempted above that ye are able. In time, God will see that you are properly equipped to face the devil and his minions.
+$`Adam`Is there anything I should do to prepare?
+$`Preacher`Yes, I'm glad you asked. As a new Christian - a newborn babe - desire the sincere milk of the word, that ye may grow thereby. You must give attention to reading the word, and meditate therein. Faith cometh by hearing, and hearing by the word of God; and this is the victory that overcometh the world, even our faith. Putting our faith in Christ, we can be strong in the Lord, and in the power of his might.
+$`Adam`Amen!
+$`Preacher`The scripture is also our weapon: for we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places. We therefore take up the sword of the Spirit, which is the word of God.
+*`CALL_DIALOG_METHOD`doAwardSword
+$`Preacher`You can get started with this copy of the Gospel of John.
+*`CALL_DIALOG_METHOD`doAwardGiftBook
+$`Adam`Thanks!
+$`Preacher`As you discover and study more books of the Holy Bible, you will become stronger and better prepared to fight the Lord's battles.
+$`Adam`What if my enemies attack me? Is there anything to protect me from the wicked spirits?
+$`Preacher`You will surely be attacked. Wherefore take unto you the whole armour of God, that ye may be able to withstand in the evil day, and having done all, to stand. However, like David, you cannot equip armour unless you have proved it. The pieces of armour are sealed within five formidable strongholds, each a location of great personal trial to be overcome by the determined Christian.
+$`Adam`I guess I should be careful when I go there...
+$`Preacher`Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God. Be strong and of a good courage; be not afraid, neither be thou dismayed: for the LORD thy God is with thee whithersoever thou goest.
+$`Adam`Great! Anything else I should know about?
+$`Preacher`Remember that the world is full of sinners, lost, as you once were; and the Lord is not willing that any should perish, but that all should come to repentance. For whosoever shall call upon the name of the Lord shall be saved. How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?
+$`Adam`I have the Spirit of God and the word of God... Could I be a preacher?
+$`Preacher`Of course! God hath committed to us the ministry of reconciliation, so we can preach the gospel to others and help them to be saved, too. Freely ye have received, freely give.
+$`Preacher`That's all for now. Be sure to talk to the other saints outside: they can offer additional information and advice to help you on your adventure. The grace of our Lord Jesus Christ be with you, Brother Adam.
+$`Adam`Good bye, preacher. Thanks for everything!
